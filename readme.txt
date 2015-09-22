@@ -7,11 +7,11 @@ celebrity.txt is the input file, with about 13,000 names taken from IMDb. Each n
 output.txt is the longest name chain I got from this celebrity.txt using my program.
 
 Step to run this program:
-1) Uncompress the folder to your working directory.
-2) change your current working directory to:  CelebrityNameGame_XiaomingZhang_TexasA\&MUniversity/src/celebrity/name/game/
+1) git clone https://github.com/xmming/CelebrityNameGame.git
+2) change your current working directory to: CelebrityNameGame/src/celebrity/name/game/
 
-cd CelebrityNameGame_XiaomingZhang_TexasA\&MUniversity/src/celebrity/name/game/
-(The format might be different in different operating systems.)
+cd CelebrityNameGame/src/celebrity/name/game/
+(The format might be different in different operating system)
 
 3)compile the program, run:
 javac -d . *.java
